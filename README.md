@@ -17,7 +17,7 @@ My first repository
 
 
 {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
+  "firstName": "Calizar",
+  "lastName": "Mark Dave",
+  "age": 19
 }
